@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304280003866",
+    "project_id": "authentication-ed90e",
+    "storage_bucket": "authentication-ed90e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304280003866:android:d1fbc95519fb9085f9f8a3",
+        "android_client_info": {
+          "package_name": "com.example.onlynews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT62h4nIkWIvz_WXlIvLNvbjXvTA7bUKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
